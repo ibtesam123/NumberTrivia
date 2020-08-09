@@ -122,7 +122,7 @@ class _HomePageState extends State<HomePage> {
 
           staticProvider.getSingleNumber(number: number);
         },
-        color: Colors.red,
+        color: Colors.green,
         padding: EdgeInsets.symmetric(vertical: 20),
         child: Text(
           'Search',
